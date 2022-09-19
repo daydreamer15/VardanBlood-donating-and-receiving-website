@@ -8,4 +8,4 @@ Currently, the website only contains front-end and no back-end as in such. We pl
 Anybody, who is interested is welcome and can freely fork the repository to make better developmnts and changes(front-end and back-end included), and join us in our journey of serving mankind.
 
 
-The link is: https://daydreamer15.github.io/Vardan_blood-donating-and-receiving-website/mainPage.html
+The link is: https://daydreamer15.github.io/VardanBlood-donating-and-receiving-website/mainPage.html
